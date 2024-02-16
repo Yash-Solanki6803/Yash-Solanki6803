@@ -30,8 +30,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Yash-Solanki6803&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yash-Solanki6803&theme=dark&hide_border=false)<br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-solanki6803&show_icons=true&locale=en&layout=compact" alt="yash-solanki6803" /></p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Solanki6803&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-solanki6803&show_icons=true&locale=en&layout=compact" alt="yash-solanki6803" /></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yash-Solanki6803&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
